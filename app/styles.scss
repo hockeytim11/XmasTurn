@@ -1,0 +1,14 @@
+@import "~foundation-sites/dist/css/foundation.min";
+body {
+  height: 100%;
+  
+  .row, .columns {
+    height: 100%;
+  }
+}
+header tagline {
+  margin: 5px;
+  font-size: 10px;
+  color: grey;
+}
+

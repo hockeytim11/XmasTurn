@@ -1,0 +1,30 @@
+{
+  "name": "XmasTurn",
+  "version": "1.0.0",
+  "description": "Christmas Gift Exchange List generator that optimizes who should gift to who based on previous years",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hockeytim11/XmasTurn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hockeytim11/XmasTurn/issues"
+  },
+  "homepage": "https://github.com/hockeytim11/XmasTurn#readme",
+  "devDependencies": {
+    "css-loader": "^0.26.1",
+    "foundation": "^4.2.1-1",
+    "foundation-sites": "^6.3.0",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^6.0.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  }
+}
